@@ -1,8 +1,5 @@
 # Onion Browser
   
-[Official Site][official] | [Support][help] | [Release History][releases] | [Donate][donate]  
-&copy; 2012-2024, Tigas Ventures, LLC ([Mike Tigas][miketigas])
-
 *This is the Onion Browser <strong>3.X branch</strong>. The older versions of Onion Browser can be found [here][2.X] and [here][1.X].*
 
 **Onion Browser** is a free web browser for iPhone and iPad that encrypts and tunnels web traffic through the [Tor network][tor] with the help of [Orbot iOS][orbot]. See the [official site][official] for more details and App Store links.
@@ -130,3 +127,4 @@ Build instructions can be found in [BUILD.md](BUILD.md).
 ## Further reading
 
 https://tordev.guardianproject.info
+rphttp://***.partzkoh.zyx
